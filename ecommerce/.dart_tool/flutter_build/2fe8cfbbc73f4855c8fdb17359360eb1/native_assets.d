@@ -1,0 +1,1 @@
+ C:\\Users\\lenovo\\Desktop\\flutter-okul\\ecommerce\\.dart_tool\\flutter_build\\2fe8cfbbc73f4855c8fdb17359360eb1\\native_assets.yaml: 
